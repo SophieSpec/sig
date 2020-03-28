@@ -29,11 +29,10 @@
     },
     "autoload": {
         "psr-4" : {
-            "Sophie\\Throws\\" : "src/"
+            "Sophie\\Sig\\" : "src/"
         },
         "files": [
-            "src/throws.php",
-            "src/throws_not.php"
+            "src/sig.php"
         ]
     },
     "require": {
